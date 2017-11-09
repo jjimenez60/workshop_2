@@ -15,21 +15,8 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 
-’Twas brillig, and the slithy toves 
-      Did gyre and gimble in the wabe: 
-All mimsy were the borogoves, 
-      And the mome raths outgrabe. 
-
-“Beware the Jabberwock, my son!
-
 ## Second Verse
-I have been one acquainted with the night.
-I have walked out in rain—and back in rain.
-I have outwalked the furthest city light.
 
-I have looked down the saddest city lane.
-I have passed by the watchman on his beat
-And dropped my eyes, unwilling to explain.
 
 
 ## Third Verse
@@ -37,11 +24,4 @@ The sun was shining on the sea,
 Shining with all his might
 
 ## Last Verse
-Nature’s first green is gold, 
-Her hardest hue to hold. 
-Her early leaf’s a flower; 
-But only so an hour. 
-Then leaf subsides to leaf. 
-So Eden sank to grief, 
-So dawn goes down to day. 
-Nothing gold can stay.
+
